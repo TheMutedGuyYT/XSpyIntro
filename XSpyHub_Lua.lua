@@ -531,7 +531,7 @@ IntroImage.BorderSizePixel = 0
 IntroImage.Position = UDim2.new(0.498703718, 0, 0.497685909, 0)
 IntroImage.Size = UDim2.new(0, 100, 0, 100)
 IntroImage.Visible = false
-IntroImage.Image = "rbxassetid://7103323040"
+IntroImage.Image = "rbxassetid://11687149985"
 IntroImage.ScaleType = Enum.ScaleType.Fit
 
 UIGradient_21.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(189, 189, 189)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
